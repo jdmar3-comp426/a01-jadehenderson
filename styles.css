@@ -1,26 +1,44 @@
 body {
-    background-color: #ffcad4;
+    background-color: #fafafa;
 }
 h1 {
     color: #696d7d;
-    font-family: amatic-sc, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-style: normal;
     font-weight: 400;
 }
-h1.heading {
-    font-family: 'Times New Roman', Times, serif;
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2.heading {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 p {
     color: #696d7d;
-    font-family: 'Josefin Sans', sans-serif;
-    border: 3px solid palevioletred;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 3px solid #b2beb5;
     padding: 15px;
 }
-a:hover {
-    color: green;
+a:link {
+    color: #789561;
 }
-#artist {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+a:visited {
+    color: #b0c1db;
+}
+a:hover {
+    color: #e4a0b7;
+}
+p.artist {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p.wikicite {
+    font-family: monospace;
+}
+#citations {
+    font-family: monospace;
+}
+#links {
+    font-family: monospace;
 }
 img {
     width: 40%;
