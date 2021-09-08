@@ -10,6 +10,11 @@ h1 {
     font-style: normal;
     font-weight: 400;
 }
+h2 {
+    font-family: monospace;
+    font-weight: lighter;
+    color: #696d7d;
+}
 h1.heading {
     font-family: monospace;
     color:#333344;
@@ -21,6 +26,9 @@ p {
     border-radius: 10px;
     border: 3px solid #b2beb5;
     padding: 15px;
+}
+p strong {
+    color: black;
 }
 a:link {
     color: #789561;
@@ -47,11 +55,6 @@ p.wikicite {
 }
 #oxID {
     color: #2e3233;
-}
-#historyID {
-    font-family: monospace;
-    color: #2e3233;
-    font-weight: lighter;
 }
 .links {
     font-family: monospace;
