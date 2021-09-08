@@ -41,6 +41,9 @@ p.wikicite {
 .citations {
     font-family: monospace;
 }
+#citations {
+    font-family: monospace;
+}
 .links {
     font-family: monospace;
 }
