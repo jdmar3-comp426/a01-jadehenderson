@@ -48,6 +48,11 @@ p.wikicite {
 #oxID {
     color: #2e3233;
 }
+#historyID {
+    font-family: monospace;
+    color: #2e3233;
+    font-weight: lighter;
+}
 .links {
     font-family: monospace;
 }
