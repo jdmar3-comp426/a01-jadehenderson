@@ -12,6 +12,7 @@ h1 {
 }
 h1.heading {
     font-family: monospace;
+    color:#333344;
     font-size: 20px;
 }
 p {
@@ -43,6 +44,9 @@ p.wikicite {
 }
 #citations {
     font-family: monospace;
+}
+#oxID {
+    color: #2e3233;
 }
 .links {
     font-family: monospace;
