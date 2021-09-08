@@ -10,7 +10,7 @@ h1 {
     font-style: normal;
     font-weight: 400;
 }
-.heading {
+h1.heading {
     font-family: monospace;
     font-size: 20px;
 }
