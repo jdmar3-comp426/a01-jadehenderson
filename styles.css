@@ -6,14 +6,14 @@ body {
 }
 h1 {
     color: #696d7d;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: monospace;
     font-style: normal;
     font-weight: 400;
 }
 h2 {
     font-family: monospace;
     font-weight: lighter;
-    color: #696d7d;
+    color: #333344;
 }
 h1.heading {
     font-family: monospace;
@@ -29,6 +29,8 @@ p {
 }
 p strong {
     color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: normal;
 }
 a:link {
     color: #789561;
@@ -52,9 +54,6 @@ p.wikicite {
 }
 #citations {
     font-family: monospace;
-}
-#oxID {
-    color: #2e3233;
 }
 .links {
     font-family: monospace;
